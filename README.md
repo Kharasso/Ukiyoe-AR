@@ -81,3 +81,18 @@ iOS native app through Obj-c scripting in AppDelegate and critical View
 Controllers.
 * UI/UX
 Sketch for UI/UX design and Zeplin for cutting component for Xcode. 
+
+#### References
+*Daniel Arantes Loverde – ‘Unity 5 Vuforia 6 and iOS native integration’
+https://bitbucket.org/jack_loverde/unity-5-vuforia-6-and-ios-native-integration
+*Jiulong Wang – ‘Integrating Unity Project into Xcode Swift Project’
+https://github.com/jiulongw/swift-unity
+*IrionEqual - ‘How to embed a Unity game into an iOS native Swift App?”
+https://medium.com/@IronEqual/how-to-embed-a-unity-game-into-an-ios-nativ
+e-swift-app-772a0b65c82
+*Ryan Norris – ‘How to Create a Card Layout in Swift (UICollectionView)?’
+https://www.youtube.com/watch?v=MubFu5yOAGc
+
+#### Credits
+The art pieces used in this application are credited to Japanese artist Segawa
+Thirty-seven, Singaporean illustrator Sokkuan Tye.
