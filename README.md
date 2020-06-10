@@ -6,4 +6,4 @@
 
 ***
 
-[![Video Demo](http://i3.ytimg.com/vi/ec607oIJ_D4/maxresdefault.jpg)](https://youtu.be/ec607oIJ_D4)
+[![Video Demo](http://i3.ytimg.com/vi/ec607oIJ_D4/hqdefault.jpg)](https://youtu.be/ec607oIJ_D4)
