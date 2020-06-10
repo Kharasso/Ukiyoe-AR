@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="fuji5_origin_reduce" size="0.500000 0.330055" />
+    <ImageTarget name="fuji4_origin_reduce" size="0.150000 0.101955" />
+    <ImageTarget name="fuji3_origin" size="0.150000 0.099774" />
+    <ImageTarget name="fuji2_origin" size="0.150000 0.099463" />
+    <ImageTarget name="fuji1_origin_reduce" size="0.150000 0.104663" />
+    <ImageTarget name="womanscarf_origin" size="0.150000 0.206500" />
+    <ImageTarget name="womanfan_origin" size="0.150000 0.206500" />
+    <ImageTarget name="woman_origin" size="0.500000 0.688333" />
+    <ImageTarget name="ninja_origin" size="0.500000 0.688333" />
+  </Tracking>
+</QCARConfig>
